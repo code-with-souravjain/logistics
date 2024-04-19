@@ -635,7 +635,7 @@ input {
     padding: 0rem 0 0 0 !important;
     position: absolute;
     left: 0;
-    bottom: -185%;
+    bottom: -170%;
   }
 
   .about-right {
@@ -683,7 +683,7 @@ input {
 
   #page2 {
     width: 100%;
-    padding: 3rem 1.3rem 0 1.3rem;
+    padding: 18rem 1.3rem 0 1.3rem;
   }
 
   .nav-end p {
